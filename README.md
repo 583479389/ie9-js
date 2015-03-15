@@ -14,7 +14,7 @@ Current version: 2.1 beta4.
 
 ## Install package and add it to bower.json dependencies
 
-`bower install ie7-js --save`
+`bower install ie9-js --save`
 
 
 ## Usage
